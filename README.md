@@ -1,3 +1,9 @@
+# 🏎 AI Grand Prix
+
+An experimental game where AI models race by solving problems.
+The fastest model wins.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
